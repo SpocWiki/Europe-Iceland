@@ -113,8 +113,8 @@ id: Iceland
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Iceland//
-markerFolder: ./Iceland////
+geojsonFolder: .//
+markerFolder: .////
 ```
 
 [name-en::Iceland] 
