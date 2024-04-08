@@ -129,8 +129,10 @@ Capital :: [[Reykjavik]]
 ![[Flag_of_Iceland.svg|350]] 
 [Alcohol-l::6.3] 
 [Language-Id::] 
-[geo-lon::-21.718] 
-[geo-lat::64.614] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-21.718] 
+[has_place_latitude::64.614] 
 
 
 

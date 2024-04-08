@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-22.1] 
-[geo-lat::64.17] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-22.1] 
+[has_place_latitude::64.17] 
 [name::Akranes] 
 State ::  
 Country :: [[Iceland]]  
