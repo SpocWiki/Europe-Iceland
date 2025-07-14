@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Reykjavik.public](/_public/\Earth\Continent\Europe\Europe~North\Iceland\Regions~Iceland\Reykjavík\CityReykjavik.public.md) 
+### [Reykjavik](/_Standards/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Reykjavík/City/Reykjavik.md) 
 
-### [Reykjavik.internal](/_internal/\Earth\Continent\Europe\Europe~North\Iceland\Regions~Iceland\Reykjavík\CityReykjavik.internal.md) 
+### [Reykjavik.public](/_public/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Reykjavík/City/Reykjavik.public.md) 
 
-### [Reykjavik.protect](/_protect/\Earth\Continent\Europe\Europe~North\Iceland\Regions~Iceland\Reykjavík\CityReykjavik.protect.md) 
+### [Reykjavik.internal](/_internal/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Reykjavík/City/Reykjavik.internal.md) 
 
-### [Reykjavik.private](/_private/\Earth\Continent\Europe\Europe~North\Iceland\Regions~Iceland\Reykjavík\CityReykjavik.private.md) 
+### [Reykjavik.protect](/_protect/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Reykjavík/City/Reykjavik.protect.md) 
 
-### [Reykjavik.personal](/_personal/\Earth\Continent\Europe\Europe~North\Iceland\Regions~Iceland\Reykjavík\CityReykjavik.personal.md) 
+### [Reykjavik.private](/_private/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Reykjavík/City/Reykjavik.private.md) 
 
-### [Reykjavik.secret](/_secret/\Earth\Continent\Europe\Europe~North\Iceland\Regions~Iceland\Reykjavík\CityReykjavik.secret.md)
+### [Reykjavik.personal](/_personal/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Reykjavík/City/Reykjavik.personal.md) 
+
+### [Reykjavik.secret](/_secret/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Reykjavík/City/Reykjavik.secret.md)
 

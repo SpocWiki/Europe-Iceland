@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Spallholt.public](/_public/\Earth\Continent\Europe\Europe~North\Iceland\CitySpallholt.public.md) 
+### [Spallholt](/_Standards/Earth/Continent/Europe/Europe~North/Iceland/City/Spallholt.md) 
 
-### [Spallholt.internal](/_internal/\Earth\Continent\Europe\Europe~North\Iceland\CitySpallholt.internal.md) 
+### [Spallholt.public](/_public/Earth/Continent/Europe/Europe~North/Iceland/City/Spallholt.public.md) 
 
-### [Spallholt.protect](/_protect/\Earth\Continent\Europe\Europe~North\Iceland\CitySpallholt.protect.md) 
+### [Spallholt.internal](/_internal/Earth/Continent/Europe/Europe~North/Iceland/City/Spallholt.internal.md) 
 
-### [Spallholt.private](/_private/\Earth\Continent\Europe\Europe~North\Iceland\CitySpallholt.private.md) 
+### [Spallholt.protect](/_protect/Earth/Continent/Europe/Europe~North/Iceland/City/Spallholt.protect.md) 
 
-### [Spallholt.personal](/_personal/\Earth\Continent\Europe\Europe~North\Iceland\CitySpallholt.personal.md) 
+### [Spallholt.private](/_private/Earth/Continent/Europe/Europe~North/Iceland/City/Spallholt.private.md) 
 
-### [Spallholt.secret](/_secret/\Earth\Continent\Europe\Europe~North\Iceland\CitySpallholt.secret.md)
+### [Spallholt.personal](/_personal/Earth/Continent/Europe/Europe~North/Iceland/City/Spallholt.personal.md) 
+
+### [Spallholt.secret](/_secret/Earth/Continent/Europe/Europe~North/Iceland/City/Spallholt.secret.md)
 

@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~North\IcelandLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~North/Iceland/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~North\IcelandLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~North/Iceland/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~North\IcelandLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~North/Iceland/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~North\IcelandLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~North/Iceland/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~North\IcelandLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~North/Iceland/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~North\IcelandLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~North/Iceland/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~North/Iceland/License.secret.md)
 

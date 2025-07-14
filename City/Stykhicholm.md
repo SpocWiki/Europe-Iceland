@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stykhicholm.public](/_public/\Earth\Continent\Europe\Europe~North\Iceland\CityStykhicholm.public.md) 
+### [Stykhicholm](/_Standards/Earth/Continent/Europe/Europe~North/Iceland/City/Stykhicholm.md) 
 
-### [Stykhicholm.internal](/_internal/\Earth\Continent\Europe\Europe~North\Iceland\CityStykhicholm.internal.md) 
+### [Stykhicholm.public](/_public/Earth/Continent/Europe/Europe~North/Iceland/City/Stykhicholm.public.md) 
 
-### [Stykhicholm.protect](/_protect/\Earth\Continent\Europe\Europe~North\Iceland\CityStykhicholm.protect.md) 
+### [Stykhicholm.internal](/_internal/Earth/Continent/Europe/Europe~North/Iceland/City/Stykhicholm.internal.md) 
 
-### [Stykhicholm.private](/_private/\Earth\Continent\Europe\Europe~North\Iceland\CityStykhicholm.private.md) 
+### [Stykhicholm.protect](/_protect/Earth/Continent/Europe/Europe~North/Iceland/City/Stykhicholm.protect.md) 
 
-### [Stykhicholm.personal](/_personal/\Earth\Continent\Europe\Europe~North\Iceland\CityStykhicholm.personal.md) 
+### [Stykhicholm.private](/_private/Earth/Continent/Europe/Europe~North/Iceland/City/Stykhicholm.private.md) 
 
-### [Stykhicholm.secret](/_secret/\Earth\Continent\Europe\Europe~North\Iceland\CityStykhicholm.secret.md)
+### [Stykhicholm.personal](/_personal/Earth/Continent/Europe/Europe~North/Iceland/City/Stykhicholm.personal.md) 
+
+### [Stykhicholm.secret](/_secret/Earth/Continent/Europe/Europe~North/Iceland/City/Stykhicholm.secret.md)
 

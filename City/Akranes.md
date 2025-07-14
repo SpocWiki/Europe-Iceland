@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Akranes.public](/_public/\Earth\Continent\Europe\Europe~North\Iceland\CityAkranes.public.md) 
+### [Akranes](/_Standards/Earth/Continent/Europe/Europe~North/Iceland/City/Akranes.md) 
 
-### [Akranes.internal](/_internal/\Earth\Continent\Europe\Europe~North\Iceland\CityAkranes.internal.md) 
+### [Akranes.public](/_public/Earth/Continent/Europe/Europe~North/Iceland/City/Akranes.public.md) 
 
-### [Akranes.protect](/_protect/\Earth\Continent\Europe\Europe~North\Iceland\CityAkranes.protect.md) 
+### [Akranes.internal](/_internal/Earth/Continent/Europe/Europe~North/Iceland/City/Akranes.internal.md) 
 
-### [Akranes.private](/_private/\Earth\Continent\Europe\Europe~North\Iceland\CityAkranes.private.md) 
+### [Akranes.protect](/_protect/Earth/Continent/Europe/Europe~North/Iceland/City/Akranes.protect.md) 
 
-### [Akranes.personal](/_personal/\Earth\Continent\Europe\Europe~North\Iceland\CityAkranes.personal.md) 
+### [Akranes.private](/_private/Earth/Continent/Europe/Europe~North/Iceland/City/Akranes.private.md) 
 
-### [Akranes.secret](/_secret/\Earth\Continent\Europe\Europe~North\Iceland\CityAkranes.secret.md)
+### [Akranes.personal](/_personal/Earth/Continent/Europe/Europe~North/Iceland/City/Akranes.personal.md) 
+
+### [Akranes.secret](/_secret/Earth/Continent/Europe/Europe~North/Iceland/City/Akranes.secret.md)
 

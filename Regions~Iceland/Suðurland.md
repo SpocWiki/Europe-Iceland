@@ -41,15 +41,17 @@ markerFolder: ./Suðurland/
 
 ## Confidential Links & Embeds: 
 
-### [Suðurland.public](/_public/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandSuðurland.public.md) 
+### [Suðurland](/_Standards/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Suðurland.md) 
 
-### [Suðurland.internal](/_internal/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandSuðurland.internal.md) 
+### [Suðurland.public](/_public/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Suðurland.public.md) 
 
-### [Suðurland.protect](/_protect/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandSuðurland.protect.md) 
+### [Suðurland.internal](/_internal/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Suðurland.internal.md) 
 
-### [Suðurland.private](/_private/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandSuðurland.private.md) 
+### [Suðurland.protect](/_protect/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Suðurland.protect.md) 
 
-### [Suðurland.personal](/_personal/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandSuðurland.personal.md) 
+### [Suðurland.private](/_private/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Suðurland.private.md) 
 
-### [Suðurland.secret](/_secret/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandSuðurland.secret.md)
+### [Suðurland.personal](/_personal/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Suðurland.personal.md) 
+
+### [Suðurland.secret](/_secret/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Suðurland.secret.md)
 
