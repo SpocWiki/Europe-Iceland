@@ -40,11 +40,16 @@ markerFolder: ./Reykjavík/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Iceland/Counties/Reykjavík|Reykjavík]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Iceland/Counties/Reykjavík.public|Reykjavík.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Iceland/Counties/Reykjavík.internal|Reykjavík.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Iceland/Counties/Reykjavík.protect|Reykjavík.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Iceland/Counties/Reykjavík.private|Reykjavík.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Iceland/Counties/Reykjavík.personal|Reykjavík.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Iceland/Counties/Reykjavík.secret|Reykjavík.secret]] 
+
+### [Reykjavík.public](/_public/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandReykjavík.public.md) 
+
+### [Reykjavík.internal](/_internal/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandReykjavík.internal.md) 
+
+### [Reykjavík.protect](/_protect/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandReykjavík.protect.md) 
+
+### [Reykjavík.private](/_private/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandReykjavík.private.md) 
+
+### [Reykjavík.personal](/_personal/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandReykjavík.personal.md) 
+
+### [Reykjavík.secret](/_secret/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandReykjavík.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Austurland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Iceland/Counties/Austurland|Austurland]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Iceland/Counties/Austurland.public|Austurland.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Iceland/Counties/Austurland.internal|Austurland.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Iceland/Counties/Austurland.protect|Austurland.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Iceland/Counties/Austurland.private|Austurland.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Iceland/Counties/Austurland.personal|Austurland.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Iceland/Counties/Austurland.secret|Austurland.secret]] 
+
+### [Austurland.public](/_public/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandAusturland.public.md) 
+
+### [Austurland.internal](/_internal/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandAusturland.internal.md) 
+
+### [Austurland.protect](/_protect/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandAusturland.protect.md) 
+
+### [Austurland.private](/_private/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandAusturland.private.md) 
+
+### [Austurland.personal](/_personal/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandAusturland.personal.md) 
+
+### [Austurland.secret](/_secret/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandAusturland.secret.md)
 

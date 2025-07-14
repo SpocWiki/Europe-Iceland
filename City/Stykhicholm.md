@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Iceland/City/Stykhicholm|Stykhicholm]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Iceland/City/Stykhicholm.public|Stykhicholm.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Iceland/City/Stykhicholm.internal|Stykhicholm.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Iceland/City/Stykhicholm.protect|Stykhicholm.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Iceland/City/Stykhicholm.private|Stykhicholm.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Iceland/City/Stykhicholm.personal|Stykhicholm.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Iceland/City/Stykhicholm.secret|Stykhicholm.secret]] 
+
+### [Stykhicholm.public](/_public/\Earth\Continent\Europe\Europe~North\Iceland\CityStykhicholm.public.md) 
+
+### [Stykhicholm.internal](/_internal/\Earth\Continent\Europe\Europe~North\Iceland\CityStykhicholm.internal.md) 
+
+### [Stykhicholm.protect](/_protect/\Earth\Continent\Europe\Europe~North\Iceland\CityStykhicholm.protect.md) 
+
+### [Stykhicholm.private](/_private/\Earth\Continent\Europe\Europe~North\Iceland\CityStykhicholm.private.md) 
+
+### [Stykhicholm.personal](/_personal/\Earth\Continent\Europe\Europe~North\Iceland\CityStykhicholm.personal.md) 
+
+### [Stykhicholm.secret](/_secret/\Earth\Continent\Europe\Europe~North\Iceland\CityStykhicholm.secret.md)
+

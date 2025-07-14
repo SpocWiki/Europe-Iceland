@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Iceland/City/Akureyri|Akureyri]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Iceland/City/Akureyri.public|Akureyri.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Iceland/City/Akureyri.internal|Akureyri.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Iceland/City/Akureyri.protect|Akureyri.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Iceland/City/Akureyri.private|Akureyri.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Iceland/City/Akureyri.personal|Akureyri.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Iceland/City/Akureyri.secret|Akureyri.secret]] 
+
+### [Akureyri.public](/_public/\Earth\Continent\Europe\Europe~North\Iceland\Regions~Iceland\Norðurland~eystra\CityAkureyri.public.md) 
+
+### [Akureyri.internal](/_internal/\Earth\Continent\Europe\Europe~North\Iceland\Regions~Iceland\Norðurland~eystra\CityAkureyri.internal.md) 
+
+### [Akureyri.protect](/_protect/\Earth\Continent\Europe\Europe~North\Iceland\Regions~Iceland\Norðurland~eystra\CityAkureyri.protect.md) 
+
+### [Akureyri.private](/_private/\Earth\Continent\Europe\Europe~North\Iceland\Regions~Iceland\Norðurland~eystra\CityAkureyri.private.md) 
+
+### [Akureyri.personal](/_personal/\Earth\Continent\Europe\Europe~North\Iceland\Regions~Iceland\Norðurland~eystra\CityAkureyri.personal.md) 
+
+### [Akureyri.secret](/_secret/\Earth\Continent\Europe\Europe~North\Iceland\Regions~Iceland\Norðurland~eystra\CityAkureyri.secret.md)
+

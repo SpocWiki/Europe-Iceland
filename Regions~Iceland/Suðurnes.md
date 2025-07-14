@@ -40,11 +40,16 @@ markerFolder: ./Suðurnes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Iceland/Counties/Suðurnes|Suðurnes]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Iceland/Counties/Suðurnes.public|Suðurnes.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Iceland/Counties/Suðurnes.internal|Suðurnes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Iceland/Counties/Suðurnes.protect|Suðurnes.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Iceland/Counties/Suðurnes.private|Suðurnes.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Iceland/Counties/Suðurnes.personal|Suðurnes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Iceland/Counties/Suðurnes.secret|Suðurnes.secret]] 
+
+### [Suðurnes.public](/_public/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandSuðurnes.public.md) 
+
+### [Suðurnes.internal](/_internal/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandSuðurnes.internal.md) 
+
+### [Suðurnes.protect](/_protect/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandSuðurnes.protect.md) 
+
+### [Suðurnes.private](/_private/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandSuðurnes.private.md) 
+
+### [Suðurnes.personal](/_personal/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandSuðurnes.personal.md) 
+
+### [Suðurnes.secret](/_secret/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandSuðurnes.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Höfuðborgarsvæði/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Iceland/Counties/Höfuðborgarsvæði|Höfuðborgarsvæði]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Iceland/Counties/Höfuðborgarsvæði.public|Höfuðborgarsvæði.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Iceland/Counties/Höfuðborgarsvæði.internal|Höfuðborgarsvæði.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Iceland/Counties/Höfuðborgarsvæði.protect|Höfuðborgarsvæði.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Iceland/Counties/Höfuðborgarsvæði.private|Höfuðborgarsvæði.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Iceland/Counties/Höfuðborgarsvæði.personal|Höfuðborgarsvæði.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Iceland/Counties/Höfuðborgarsvæði.secret|Höfuðborgarsvæði.secret]] 
+
+### [Höfuðborgarsvæði.public](/_public/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandHöfuðborgarsvæði.public.md) 
+
+### [Höfuðborgarsvæði.internal](/_internal/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandHöfuðborgarsvæði.internal.md) 
+
+### [Höfuðborgarsvæði.protect](/_protect/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandHöfuðborgarsvæði.protect.md) 
+
+### [Höfuðborgarsvæði.private](/_private/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandHöfuðborgarsvæði.private.md) 
+
+### [Höfuðborgarsvæði.personal](/_personal/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandHöfuðborgarsvæði.personal.md) 
+
+### [Höfuðborgarsvæði.secret](/_secret/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandHöfuðborgarsvæði.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Vestfirðir/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Iceland/Counties/Vestfirðir|Vestfirðir]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Iceland/Counties/Vestfirðir.public|Vestfirðir.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Iceland/Counties/Vestfirðir.internal|Vestfirðir.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Iceland/Counties/Vestfirðir.protect|Vestfirðir.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Iceland/Counties/Vestfirðir.private|Vestfirðir.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Iceland/Counties/Vestfirðir.personal|Vestfirðir.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Iceland/Counties/Vestfirðir.secret|Vestfirðir.secret]] 
+
+### [Vestfirðir.public](/_public/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandVestfirðir.public.md) 
+
+### [Vestfirðir.internal](/_internal/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandVestfirðir.internal.md) 
+
+### [Vestfirðir.protect](/_protect/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandVestfirðir.protect.md) 
+
+### [Vestfirðir.private](/_private/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandVestfirðir.private.md) 
+
+### [Vestfirðir.personal](/_personal/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandVestfirðir.personal.md) 
+
+### [Vestfirðir.secret](/_secret/\Earth\Continent\Europe\Europe~North\Iceland\Regions~IcelandVestfirðir.secret.md)
 
