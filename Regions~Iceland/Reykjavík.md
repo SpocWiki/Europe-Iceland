@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Reykjavík
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Reykjavík/
 markerFolder: ./Reykjavík/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Norðurland_eystra
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Norðurland_eystra/
 markerFolder: ./Norðurland_eystra/

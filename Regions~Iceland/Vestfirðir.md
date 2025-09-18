@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Vestfirðir
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Vestfirðir/
 markerFolder: ./Vestfirðir/
