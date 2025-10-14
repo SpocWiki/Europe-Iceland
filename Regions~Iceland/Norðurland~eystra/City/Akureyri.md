@@ -21,7 +21,7 @@ State ::
 Country :: [[Iceland]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet
