@@ -20,12 +20,12 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
-U_S_National_Archives_Identifier: "10045317"
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
+U_S_National_Archives_Identifier: 10045317
 postal_code: 101–155
 Libris_URI: 53hkjjcp099p4sn
 ISO_3166_2_code:
@@ -41,53 +41,53 @@ demonym:
   - Reykjaviker
 inception: 1786-01-01T00:00:00Z
 coordinate_location: Point(-21.935 64.1475)
-award_received: "[[_Standards/WikiData/WD~European_Capital_of_Culture,129372]]"
+award_received: '[[_Standards/WikiData/WD~European_Capital_of_Culture,129372]]'
 capital_of:
-  - "[[_Standards/WikiData/WD~Capital_Region,203304]]"
-  - "[[_Standards/WikiData/WD~Reykjavíkurborg,1675663]]"
-  - "[[_Standards/WikiData/WD~Iceland,189]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Iceland,62567]]"
+  - '[[_Standards/WikiData/WD~Capital_Region,203304]]'
+  - '[[_Standards/WikiData/WD~Reykjavíkurborg,1675663]]'
+  - '[[_Standards/WikiData/WD~Iceland,189]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Iceland,62567]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
-  - "[[_Standards/WikiData/WD~International_Cities_of_Refuge_Network,15477956]]"
+  - '[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]'
+  - '[[_Standards/WikiData/WD~International_Cities_of_Refuge_Network,15477956]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~port_city,2264924]]"
-  - "[[_Standards/WikiData/WD~largest_city,51929311]]"
-  - "[[_Standards/WikiData/WD~national_capital,108178728]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
-  - "[[_Standards/WikiData/WD~capital_city,5119]]"
-different_from: "[[_Standards/WikiData/WD~Reykjavíkurborg,1675663]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Reykjavíkurborg,1675663]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Reykjavíkurborg,1675663]]"
+  - '[[_Standards/WikiData/WD~big_city,1549591]]'
+  - '[[_Standards/WikiData/WD~port_city,2264924]]'
+  - '[[_Standards/WikiData/WD~largest_city,51929311]]'
+  - '[[_Standards/WikiData/WD~national_capital,108178728]]'
+  - '[[_Standards/WikiData/WD~city,515]]'
+  - '[[_Standards/WikiData/WD~capital_city,5119]]'
+different_from: '[[_Standards/WikiData/WD~Reykjavíkurborg,1675663]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Reykjavíkurborg,1675663]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Reykjavíkurborg,1675663]]'
 has_list:
-  - "[[_Standards/WikiData/WD~list_of_people_from_Reykjavík,1864550]]"
-  - "[[_Standards/WikiData/WD~list_of_honorary_citizens_of_Reykjavík,104868502]]"
-owner_of: "[[_Standards/WikiData/WD~Orkuveita_Reykjavíkur,3356432]]"
+  - '[[_Standards/WikiData/WD~list_of_people_from_Reykjavík,1864550]]'
+  - '[[_Standards/WikiData/WD~list_of_honorary_citizens_of_Reykjavík,104868502]]'
+owner_of: '[[_Standards/WikiData/WD~Orkuveita_Reykjavíkur,3356432]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Cities,5497514]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Iceland,14605772]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Reykjavík,9289928]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Reykjavík,23582806]]"
-head_of_government: "[[_Standards/WikiData/WD~Heiða_Björg_Hilmisdóttir,25591603]]"
-category_for_people_buried_here: "[[_Standards/WikiData/WD~Q32407217,32407217]]"
-official_language: "[[_Standards/WikiData/WD~Icelandic,294]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC_00_00,6574]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
-country: "[[_Standards/WikiData/WD~Iceland,189]]"
-twinned_administrative_body: "[[_Standards/WikiData/WD~Vilnius,216]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Cities,5497514]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Iceland,14605772]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Reykjavík,9289928]]'
+history_of_topic: '[[_Standards/WikiData/WD~timeline_of_Reykjavík,23582806]]'
+head_of_government: '[[_Standards/WikiData/WD~Heiða_Björg_Hilmisdóttir,25591603]]'
+category_for_people_buried_here: '[[_Standards/WikiData/WD~Q32407217,32407217]]'
+official_language: '[[_Standards/WikiData/WD~Icelandic,294]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
+country: '[[_Standards/WikiData/WD~Iceland,189]]'
+twinned_administrative_body: '[[_Standards/WikiData/WD~Vilnius,216]]'
 elevation_above_sea_level: 8
 area: 244
-local_dialing_code: "5"
+local_dialing_code: 5
 population: 138772
-LAU: "0000"
-OmegaWiki_Defined_Meaning: "357641"
+LAU: 0000
+OmegaWiki_Defined_Meaning: 357641
 Commons_gallery: Reykjavík
 Commons_category: Reykjavík
 native_label: Reykjavík
@@ -110,7 +110,7 @@ streaming_media_URL:
   - https://balticlivecam.com/cameras/iceland/reykjavik/tjornin-lake/
 official_website: https://reykjavik.is/
 email_address: mailto:upplysingar@reykjavik.is
-ISNI: "0000000406436825"
+ISNI: 0000000406436825
 ---
 
 # [[Reykjavík]] 

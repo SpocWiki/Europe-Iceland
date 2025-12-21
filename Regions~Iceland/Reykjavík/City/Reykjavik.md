@@ -1,16 +1,19 @@
 ---
-location: [64.15,-21.95] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Reykjavik
+location:
+  - 64.15
+  - -21.95
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33725
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

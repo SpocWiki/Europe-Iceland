@@ -1,13 +1,15 @@
 ---
 aliases:
   - history of Iceland
+  - History_of_Iceland
+  - History of Iceland
 has_id_wikidata: Q151128
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-subclass_of: "[[_Standards/WikiData/WD~history,309]]"
-facet_of: "[[_Standards/WikiData/WD~Iceland,189]]"
-country: "[[_Standards/WikiData/WD~Iceland,189]]"
-Dewey_Decimal_Classification: "949.12"
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
+subclass_of: '[[_Standards/WikiData/WD~history,309]]'
+facet_of: '[[_Standards/WikiData/WD~Iceland,189]]'
+country: '[[_Standards/WikiData/WD~Iceland,189]]'
+Dewey_Decimal_Classification: 949.12
 Commons_category: History of Iceland
 ---
 

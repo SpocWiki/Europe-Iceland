@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Iceland
+  - Islandia
+  - Islande
+  - آيسلندا
+  - 冰岛
+  - Исландия
+  - the Republic of Iceland
+  - la República de Islandia
+  - ReadMe
 location:
   - 64.614
   - -21.718
@@ -15,21 +25,12 @@ cssclasses:
   - Country
 publish: true
 title: Iceland
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Iceland
-  - Islandia
-  - Islande
-  - آيسلندا
-  - 冰岛
-  - Исландия
-  - the Republic of Iceland
-  - la República de Islandia
+publishDate: ''
+expiryDate: ''
 Languages:
   - is
   - en

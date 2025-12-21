@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Norðurland_eystra
+  - Norðurland~eystra
 location:
   - 65.5
   - -17.4
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Norðurland_eystra
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Norðurland_eystra
