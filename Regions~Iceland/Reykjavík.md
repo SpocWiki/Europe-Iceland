@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1786-01-01 
 aliases:
   - Reykjavík
 has_id_wikidata: Q1764
