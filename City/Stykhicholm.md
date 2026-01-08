@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34639
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -22.77
+dv_has_place_latitude: 65.08
+dv_name: Stykhicholm
+dv_Country: "[[../../Iceland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-22.77] 
-[has_place_latitude::65.08] 
-[name::Stykhicholm] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Iceland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stykhicholm](/_Standards/Earth/Continent/Europe/Europe~North/Iceland/City/Stykhicholm.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Iceland/City/Stykhicholm|Stykhicholm]] 
 
-### [Stykhicholm.public](/_public/Earth/Continent/Europe/Europe~North/Iceland/City/Stykhicholm.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Iceland/City/Stykhicholm.public|Stykhicholm.public]] 
 
-### [Stykhicholm.internal](/_internal/Earth/Continent/Europe/Europe~North/Iceland/City/Stykhicholm.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Iceland/City/Stykhicholm.internal|Stykhicholm.internal]] 
 
-### [Stykhicholm.protect](/_protect/Earth/Continent/Europe/Europe~North/Iceland/City/Stykhicholm.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Iceland/City/Stykhicholm.protect|Stykhicholm.protect]] 
 
-### [Stykhicholm.private](/_private/Earth/Continent/Europe/Europe~North/Iceland/City/Stykhicholm.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Iceland/City/Stykhicholm.private|Stykhicholm.private]] 
 
-### [Stykhicholm.personal](/_personal/Earth/Continent/Europe/Europe~North/Iceland/City/Stykhicholm.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Iceland/City/Stykhicholm.personal|Stykhicholm.personal]] 
 
-### [Stykhicholm.secret](/_secret/Earth/Continent/Europe/Europe~North/Iceland/City/Stykhicholm.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Iceland/City/Stykhicholm.secret|Stykhicholm.secret]] 
 

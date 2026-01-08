@@ -41,17 +41,17 @@ markerFolder: ./Norðurland_eystra/
 
 ## Confidential Links & Embeds: 
 
-### [Norðurland~eystra](/_Standards/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Norðurland~eystra.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Norðurland~eystra|Norðurland~eystra]] 
 
-### [Norðurland~eystra.public](/_public/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Norðurland~eystra.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Norðurland~eystra.public|Norðurland~eystra.public]] 
 
-### [Norðurland~eystra.internal](/_internal/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Norðurland~eystra.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Norðurland~eystra.internal|Norðurland~eystra.internal]] 
 
-### [Norðurland~eystra.protect](/_protect/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Norðurland~eystra.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Norðurland~eystra.protect|Norðurland~eystra.protect]] 
 
-### [Norðurland~eystra.private](/_private/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Norðurland~eystra.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Norðurland~eystra.private|Norðurland~eystra.private]] 
 
-### [Norðurland~eystra.personal](/_personal/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Norðurland~eystra.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Norðurland~eystra.personal|Norðurland~eystra.personal]] 
 
-### [Norðurland~eystra.secret](/_secret/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Norðurland~eystra.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Norðurland~eystra.secret|Norðurland~eystra.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Vesturland/
 
 ## Confidential Links & Embeds: 
 
-### [Vesturland](/_Standards/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Vesturland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Vesturland|Vesturland]] 
 
-### [Vesturland.public](/_public/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Vesturland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Vesturland.public|Vesturland.public]] 
 
-### [Vesturland.internal](/_internal/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Vesturland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Vesturland.internal|Vesturland.internal]] 
 
-### [Vesturland.protect](/_protect/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Vesturland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Vesturland.protect|Vesturland.protect]] 
 
-### [Vesturland.private](/_private/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Vesturland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Vesturland.private|Vesturland.private]] 
 
-### [Vesturland.personal](/_personal/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Vesturland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Vesturland.personal|Vesturland.personal]] 
 
-### [Vesturland.secret](/_secret/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Vesturland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Vesturland.secret|Vesturland.secret]] 
 

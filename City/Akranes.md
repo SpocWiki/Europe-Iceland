@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28703
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -22.1
+dv_has_place_latitude: 64.17
+dv_name: Akranes
+dv_Country: "[[../../Iceland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-22.1] 
-[has_place_latitude::64.17] 
-[name::Akranes] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Iceland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Akranes](/_Standards/Earth/Continent/Europe/Europe~North/Iceland/City/Akranes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Iceland/City/Akranes|Akranes]] 
 
-### [Akranes.public](/_public/Earth/Continent/Europe/Europe~North/Iceland/City/Akranes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Iceland/City/Akranes.public|Akranes.public]] 
 
-### [Akranes.internal](/_internal/Earth/Continent/Europe/Europe~North/Iceland/City/Akranes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Iceland/City/Akranes.internal|Akranes.internal]] 
 
-### [Akranes.protect](/_protect/Earth/Continent/Europe/Europe~North/Iceland/City/Akranes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Iceland/City/Akranes.protect|Akranes.protect]] 
 
-### [Akranes.private](/_private/Earth/Continent/Europe/Europe~North/Iceland/City/Akranes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Iceland/City/Akranes.private|Akranes.private]] 
 
-### [Akranes.personal](/_personal/Earth/Continent/Europe/Europe~North/Iceland/City/Akranes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Iceland/City/Akranes.personal|Akranes.personal]] 
 
-### [Akranes.secret](/_secret/Earth/Continent/Europe/Europe~North/Iceland/City/Akranes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Iceland/City/Akranes.secret|Akranes.secret]] 
 

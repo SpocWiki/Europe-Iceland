@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Reykjavík,1764|WD~Reykjavík,1764]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Reykjavík,1764|WD~Reykjavík,1764]]"
+
 has_time_started: 1786-01-01 
 aliases:
   - Reykjavík
@@ -116,7 +120,7 @@ ISNI: 0000000406436825
 
 # [[Reykjavík]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Reykjavík,1764|WD~Reykjavík,1764]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -137,19 +141,20 @@ markerFolder: ./Reykjavík/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Reykjav%C3%ADk)
 
+
 ## Confidential Links & Embeds: 
 
-### [Reykjavík](/_Standards/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Reykjavík.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Reykjavík|Reykjavík]] 
 
-### [Reykjavík.public](/_public/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Reykjavík.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Reykjavík.public|Reykjavík.public]] 
 
-### [Reykjavík.internal](/_internal/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Reykjavík.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Reykjavík.internal|Reykjavík.internal]] 
 
-### [Reykjavík.protect](/_protect/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Reykjavík.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Reykjavík.protect|Reykjavík.protect]] 
 
-### [Reykjavík.private](/_private/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Reykjavík.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Reykjavík.private|Reykjavík.private]] 
 
-### [Reykjavík.personal](/_personal/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Reykjavík.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Reykjavík.personal|Reykjavík.personal]] 
 
-### [Reykjavík.secret](/_secret/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Reykjavík.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Iceland/Regions~Iceland/Reykjavík.secret|Reykjavík.secret]] 
 

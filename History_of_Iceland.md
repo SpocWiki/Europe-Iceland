@@ -4,18 +4,21 @@ aliases:
   - History_of_Iceland
   - History of Iceland
 has_id_wikidata: Q151128
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
-subclass_of: '[[_Standards/WikiData/WD~history,309]]'
-facet_of: '[[_Standards/WikiData/WD~Iceland,189]]'
-country: '[[_Standards/WikiData/WD~Iceland,189]]'
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
+subclass_of: "[[_Standards/WikiData/WD~history,309]]"
+facet_of: "[[_Standards/WikiData/WD~Iceland,189]]"
+country: "[[_Standards/WikiData/WD~Iceland,189]]"
 Dewey_Decimal_Classification: 949.12
 Commons_category: History of Iceland
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_Iceland,151128]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_Iceland,151128]]"
 ---
 
 # [[History_of_Iceland]]
 
-#is_/same_as :: [[WD~History_of_Iceland,151128]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -67,4 +70,21 @@ Commons_category: History of Iceland
 > Iceland is a relatively young island in the geological sense, being formed about 20 million years ago by a series of volcanic eruptions in the Mid-Atlantic Ridge, but it is still growing from fresh volcanic eruptions. The oldest stone specimens found in Iceland date back to c. 16 million years ago.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Iceland) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Iceland/History_of_Iceland|History_of_Iceland]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Iceland/History_of_Iceland.public|History_of_Iceland.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Iceland/History_of_Iceland.internal|History_of_Iceland.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Iceland/History_of_Iceland.protect|History_of_Iceland.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Iceland/History_of_Iceland.private|History_of_Iceland.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Iceland/History_of_Iceland.personal|History_of_Iceland.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Iceland/History_of_Iceland.secret|History_of_Iceland.secret]] 
 
