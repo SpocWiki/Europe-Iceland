@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -23.67
 dv_has_place_latitude: 64
-dv_name: Spallholt
+dv_has_name_: Spallholt
 dv_Country: "[[../../Iceland]]"
 ---
 #is_a_/Place  

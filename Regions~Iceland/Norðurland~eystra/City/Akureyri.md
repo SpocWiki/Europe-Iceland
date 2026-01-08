@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -18.1
 dv_has_place_latitude: 65.67
-dv_name: Akureyri
+dv_has_name_: Akureyri
 dv_Country: "[[../../../../Iceland]]"
 ---
 #is_a_/Place  

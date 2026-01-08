@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -21.95
 dv_has_place_latitude: 64.15
-dv_name: Reykjavik
+dv_has_name_: Reykjavik
 dv_Country: "[[../../../../Iceland]]"
 ---
 #is_a_/Place  
